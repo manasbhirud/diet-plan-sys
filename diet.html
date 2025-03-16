@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diet Plan</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+        }
+
+        /* Container for the content */
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #111; /* Dark gray background */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); /* Green glow */
+        }
+
+        /* Title */
+        h1 {
+            text-align: center;
+            color: #0f0; /* Bright green */
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        /* Button Styles */
+        .generate-button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background-color: #0f0; /* Bright green */
+            color: #000; /* Black text */
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .generate-button:hover {
+            background-color: #0c0; /* Darker green on hover */
+        }
+
+        /* Meal Plan Section */
+        .meal-plan {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #222; /* Dark gray */
+            border-radius: 5px;
+        }
+
+        .meal-plan h2 {
+            color: #0f0; /* Bright green */
+            font-size: 1.8em;
+            margin-bottom: 15px;
+        }
+
+        .meal-plan p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #000; /* Black */
+            color: #0f0; /* Bright green */
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Diet Plan</h1>
+
+        <!-- Button to Generate Meal Plan -->
+        <button class="generate-button" id="generate-meal-plan">Generate Meal Plan</button>
+
+        <!-- Meal Plan Section -->
+        <div class="meal-plan" id="meal-plan-section">
+            <h2>Your Weekly Meal Plan</h2>
+            <p>Your personalized meal plan will appear here after generation.</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2023 NutriTrack. All rights reserved.
+    </footer>
+
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById('generate-meal-plan').addEventListener('click', async () => {
+        console.log("✅ Button Clicked!");
+
+        try {
+            const urlParams = new URLSearchParams(window.location.search);
+            const height = urlParams.get('height');
+            const weight = urlParams.get('weight');
+            const age = urlParams.get('age');
+            const gender = urlParams.get('gender');
+            const goal = urlParams.get('goal');
+            const activity = urlParams.get('activity');
+
+            console.log("📌 Extracted Parameters:", { height, weight, age, gender, goal, activity });
+
+            if (!height || !weight || !age || !gender || !goal || !activity) {
+                alert("⚠️ Missing input values from URL!");
+                return;
+            }
+
+            console.log("📤 Sending request to Flask...");
+            const response = await fetch(`http://127.0.0.1:5000/generate_meal_plan?height=${height}&weight=${weight}&age=${age}&gender=${gender}&goal=${goal}&activity=${activity}`);
+
+            console.log("📥 Received response:", response);
+
+            if (!response.ok) {
+                console.warn(`⚠️ Server responded with ${response.status} ${response.statusText}`);
+                alert("⚠️ Warning: Server responded with an issue, but the PDF may still be downloading.");
+                return;
+            }
+
+            const contentType = response.headers.get("Content-Type");
+            console.log("📝 Response Content-Type:", contentType);
+
+            if (!contentType || !contentType.includes("application/pdf")) {
+                console.warn("⚠️ Unexpected Response Type:", contentType);
+                alert("⚠️ Warning: Unexpected response type, but checking for PDF download.");
+            }
+
+            console.log("📂 Waiting for response blob...");
+            const blob = await response.blob();  // Ensures file is fully received before proceeding
+
+            console.log("📥 Downloading PDF...");
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'weekly_meal_plan.pdf';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+
+            console.log("🎉 Hurray! Meal plan generated successfully!");
+            alert("✅ Meal plan generated successfully!");
+        } catch (error) {
+            console.error('❌ JavaScript Error:', error);
+            alert("⚠️ Something went wrong, but check if the PDF downloaded.");
+        }
+    });
+});
+</script>
+
+        </body>
+</html>
