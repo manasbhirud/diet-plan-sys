@@ -1,0 +1,2530 @@
+[
+    {
+        "Dish": "Poha",
+        "Calories": "150",
+        "Proteins (g)": "3",
+        "Fats (g)": "5",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Upma",
+        "Calories": "200",
+        "Proteins (g)": "4",
+        "Fats (g)": "7",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Idli",
+        "Calories": "50",
+        "Proteins (g)": "2",
+        "Fats (g)": "1",
+        "Carbs (g)": "10",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dosa",
+        "Calories": "120",
+        "Proteins (g)": "3",
+        "Fats (g)": "4",
+        "Carbs (g)": "20",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paratha",
+        "Calories": "250",
+        "Proteins (g)": "6",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Aloo Paratha",
+        "Calories": "300",
+        "Proteins (g)": "7",
+        "Fats (g)": "12",
+        "Carbs (g)": "35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pongal",
+        "Calories": "180",
+        "Proteins (g)": "5",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Medu Vada",
+        "Calories": "150",
+        "Proteins (g)": "4",
+        "Fats (g)": "8",
+        "Carbs (g)": "15",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sabudana Khichdi",
+        "Calories": "200",
+        "Proteins (g)": "2",
+        "Fats (g)": "5",
+        "Carbs (g)": "40",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Masala Omelette",
+        "Calories": "250",
+        "Proteins (g)": "12",
+        "Fats (g)": "18",
+        "Carbs (g)": "2",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Methi Thepla",
+        "Calories": "150",
+        "Proteins (g)": "5",
+        "Fats (g)": "6",
+        "Carbs (g)": "20",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Rava Uttapam",
+        "Calories": "200",
+        "Proteins (g)": "6",
+        "Fats (g)": "8",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Masala Dosa",
+        "Calories": "180",
+        "Proteins (g)": "5",
+        "Fats (g)": "7",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Rava Idli",
+        "Calories": "120",
+        "Proteins (g)": "3",
+        "Fats (g)": "4",
+        "Carbs (g)": "20",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Appam",
+        "Calories": "150",
+        "Proteins (g)": "3",
+        "Fats (g)": "5",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pesarattu",
+        "Calories": "200",
+        "Proteins (g)": "6",
+        "Fats (g)": "8",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Ragi Dosa",
+        "Calories": "180",
+        "Proteins (g)": "5",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Quinoa Upma",
+        "Calories": "220",
+        "Proteins (g)": "8",
+        "Fats (g)": "7",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Vegetable Upma",
+        "Calories": "200",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Bajra Khichdi",
+        "Calories": "250",
+        "Proteins (g)": "7",
+        "Fats (g)": "8",
+        "Carbs (g)": "35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Moong Dal Khichdi",
+        "Calories": "200",
+        "Proteins (g)": "8",
+        "Fats (g)": "5",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Masala Khichdi",
+        "Calories": "220",
+        "Proteins (g)": "7",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Vegetable Khichdi",
+        "Calories": "180",
+        "Proteins (g)": "6",
+        "Fats (g)": "5",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paneer Paratha",
+        "Calories": "300",
+        "Proteins (g)": "12",
+        "Fats (g)": "15",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Gobi Paratha",
+        "Calories": "280",
+        "Proteins (g)": "8",
+        "Fats (g)": "12",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Methi Paratha",
+        "Calories": "250",
+        "Proteins (g)": "7",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Onion Paratha",
+        "Calories": "270",
+        "Proteins (g)": "6",
+        "Fats (g)": "12",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Egg Paratha",
+        "Calories": "320",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Keema Paratha",
+        "Calories": "350",
+        "Proteins (g)": "20",
+        "Fats (g)": "20",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Corn Paratha",
+        "Calories": "280",
+        "Proteins (g)": "6",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paneer Bhurji",
+        "Calories": "250",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "10",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Egg Bhurji",
+        "Calories": "220",
+        "Proteins (g)": "12",
+        "Fats (g)": "15",
+        "Carbs (g)": "5",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Aloo Paratha",
+        "Calories": "250",
+        "Proteins (g)": "5",
+        "Fats (g)": "10",
+        "Carbs (g)": "35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dhokla",
+        "Calories": "160",
+        "Proteins (g)": "7",
+        "Fats (g)": "4",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dosa",
+        "Calories": "180",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Idli",
+        "Calories": "140",
+        "Proteins (g)": "4",
+        "Fats (g)": "2",
+        "Carbs (g)": "28",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Medu Vada",
+        "Calories": "250",
+        "Proteins (g)": "6",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Methi Thepla",
+        "Calories": "220",
+        "Proteins (g)": "5",
+        "Fats (g)": "8",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Poha",
+        "Calories": "150",
+        "Proteins (g)": "3",
+        "Fats (g)": "4",
+        "Carbs (g)": "28",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pongal",
+        "Calories": "190",
+        "Proteins (g)": "6",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Rava Upma",
+        "Calories": "160",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sabudana Khichdi",
+        "Calories": "210",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Kesari Bath",
+        "Calories": "220",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Neer Dosa",
+        "Calories": "140",
+        "Proteins (g)": "3",
+        "Fats (g)": "3",
+        "Carbs (g)": "28",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Appam",
+        "Calories": "200",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "38",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Mangalore Buns",
+        "Calories": "250",
+        "Proteins (g)": "4",
+        "Fats (g)": "8",
+        "Carbs (g)": "40",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Thalipeeth",
+        "Calories": "230",
+        "Proteins (g)": "7",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Kanda Poha",
+        "Calories": "180",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Chole Bhature",
+        "Calories": "450",
+        "Proteins (g)": "10",
+        "Fats (g)": "20",
+        "Carbs (g)": "50",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Rajma Chawal",
+        "Calories": "400",
+        "Proteins (g)": "12",
+        "Fats (g)": "15",
+        "Carbs (g)": "60",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Butter Chicken",
+        "Calories": "500",
+        "Proteins (g)": "25",
+        "Fats (g)": "30",
+        "Carbs (g)": "20",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Palak Paneer",
+        "Calories": "300",
+        "Proteins (g)": "15",
+        "Fats (g)": "20",
+        "Carbs (g)": "10",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chana Masala",
+        "Calories": "250",
+        "Proteins (g)": "10",
+        "Fats (g)": "8",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Baingan Bharta",
+        "Calories": "200",
+        "Proteins (g)": "5",
+        "Fats (g)": "10",
+        "Carbs (g)": "20",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Fish Curry",
+        "Calories": "300",
+        "Proteins (g)": "25",
+        "Fats (g)": "15",
+        "Carbs (g)": "10",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Egg Curry",
+        "Calories": "280",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "10",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Kadhi Pakora",
+        "Calories": "350",
+        "Proteins (g)": "10",
+        "Fats (g)": "20",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sambar",
+        "Calories": "150",
+        "Proteins (g)": "5",
+        "Fats (g)": "5",
+        "Carbs (g)": "20",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Rasam",
+        "Calories": "100",
+        "Proteins (g)": "2",
+        "Fats (g)": "3",
+        "Carbs (g)": "15",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetable Pulao",
+        "Calories": "300",
+        "Proteins (g)": "6",
+        "Fats (g)": "10",
+        "Carbs (g)": "40",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Jeera Rice",
+        "Calories": "250",
+        "Proteins (g)": "4",
+        "Fats (g)": "8",
+        "Carbs (g)": "35",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Lemon Rice",
+        "Calories": "200",
+        "Proteins (g)": "3",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Tomato Rice",
+        "Calories": "220",
+        "Proteins (g)": "4",
+        "Fats (g)": "7",
+        "Carbs (g)": "32",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Curd Rice",
+        "Calories": "180",
+        "Proteins (g)": "8",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Baingan Bharta",
+        "Calories": "102",
+        "Proteins (g)": "3",
+        "Fats (g)": "7",
+        "Carbs (g)": "9",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Bhindi Masala",
+        "Calories": "120",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "15",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Butter Chicken",
+        "Calories": "290",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "12",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chana Masala",
+        "Calories": "210",
+        "Proteins (g)": "8",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Dal Makhani",
+        "Calories": "280",
+        "Proteins (g)": "11",
+        "Fats (g)": "15",
+        "Carbs (g)": "25",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Jeera Rice",
+        "Calories": "200",
+        "Proteins (g)": "4",
+        "Fats (g)": "3",
+        "Carbs (g)": "40",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Kadhi Pakora",
+        "Calories": "180",
+        "Proteins (g)": "6",
+        "Fats (g)": "8",
+        "Carbs (g)": "22",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Khichdi",
+        "Calories": "130",
+        "Proteins (g)": "5",
+        "Fats (g)": "2",
+        "Carbs (g)": "25",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Masoor Dal",
+        "Calories": "120",
+        "Proteins (g)": "9",
+        "Fats (g)": "2",
+        "Carbs (g)": "18",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Palak Paneer",
+        "Calories": "190",
+        "Proteins (g)": "10",
+        "Fats (g)": "12",
+        "Carbs (g)": "12",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Paneer Butter Masala",
+        "Calories": "290",
+        "Proteins (g)": "12",
+        "Fats (g)": "18",
+        "Carbs (g)": "22",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Pulao",
+        "Calories": "210",
+        "Proteins (g)": "5",
+        "Fats (g)": "6",
+        "Carbs (g)": "35",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Rajma Chawal",
+        "Calories": "250",
+        "Proteins (g)": "10",
+        "Fats (g)": "8",
+        "Carbs (g)": "40",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Roti",
+        "Calories": "120",
+        "Proteins (g)": "4",
+        "Fats (g)": "2",
+        "Carbs (g)": "22",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sarson Ka Saag",
+        "Calories": "130",
+        "Proteins (g)": "6",
+        "Fats (g)": "7",
+        "Carbs (g)": "10",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetable Biryani",
+        "Calories": "250",
+        "Proteins (g)": "7",
+        "Fats (g)": "8",
+        "Carbs (g)": "35",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Bisi Bele Bath",
+        "Calories": "230",
+        "Proteins (g)": "7",
+        "Fats (g)": "8",
+        "Carbs (g)": "35",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sambar",
+        "Calories": "120",
+        "Proteins (g)": "4",
+        "Fats (g)": "3",
+        "Carbs (g)": "18",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Ragi Mudde",
+        "Calories": "180",
+        "Proteins (g)": "6",
+        "Fats (g)": "2",
+        "Carbs (g)": "38",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Dal Tadka",
+        "Calories": "190",
+        "Proteins (g)": "8",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Panchmel Dal",
+        "Calories": "180",
+        "Proteins (g)": "8",
+        "Fats (g)": "4",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Undhiyu",
+        "Calories": "220",
+        "Proteins (g)": "7",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Dal Baati Churma",
+        "Calories": "450",
+        "Proteins (g)": "12",
+        "Fats (g)": "20",
+        "Carbs (g)": "50",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Biryani",
+        "Calories": "600",
+        "Proteins (g)": "20",
+        "Fats (g)": "25",
+        "Carbs (g)": "70",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Dal Tadka",
+        "Calories": "200",
+        "Proteins (g)": "8",
+        "Fats (g)": "5",
+        "Carbs (g)": "30",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Aloo Gobi",
+        "Calories": "150",
+        "Proteins (g)": "4",
+        "Fats (g)": "6",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Paneer Tikka",
+        "Calories": "250",
+        "Proteins (g)": "12",
+        "Fats (g)": "15",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Malai Kofta",
+        "Calories": "350",
+        "Proteins (g)": "10",
+        "Fats (g)": "25",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Tandoori Chicken",
+        "Calories": "350",
+        "Proteins (g)": "30",
+        "Fats (g)": "20",
+        "Carbs (g)": "5",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Chicken Tikka",
+        "Calories": "300",
+        "Proteins (g)": "25",
+        "Fats (g)": "18",
+        "Carbs (g)": "5",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Chicken Curry",
+        "Calories": "400",
+        "Proteins (g)": "35",
+        "Fats (g)": "25",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Mutton Curry",
+        "Calories": "450",
+        "Proteins (g)": "40",
+        "Fats (g)": "30",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Fish Fry",
+        "Calories": "300",
+        "Proteins (g)": "25",
+        "Fats (g)": "18",
+        "Carbs (g)": "5",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Prawn Curry",
+        "Calories": "350",
+        "Proteins (g)": "30",
+        "Fats (g)": "20",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Egg Curry",
+        "Calories": "280",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Vegetable Curry",
+        "Calories": "200",
+        "Proteins (g)": "5",
+        "Fats (g)": "10",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Palak Dal",
+        "Calories": "180",
+        "Proteins (g)": "8",
+        "Fats (g)": "5",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Moong Dal",
+        "Calories": "150",
+        "Proteins (g)": "7",
+        "Fats (g)": "4",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Chana Dal",
+        "Calories": "200",
+        "Proteins (g)": "10",
+        "Fats (g)": "8",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Urad Dal",
+        "Calories": "220",
+        "Proteins (g)": "9",
+        "Fats (g)": "10",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Masoor Dal",
+        "Calories": "180",
+        "Proteins (g)": "8",
+        "Fats (g)": "6",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Rajma",
+        "Calories": "250",
+        "Proteins (g)": "12",
+        "Fats (g)": "10",
+        "Carbs (g)": "30",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Lobia",
+        "Calories": "220",
+        "Proteins (g)": "10",
+        "Fats (g)": "8",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Kadai Paneer",
+        "Calories": "300",
+        "Proteins (g)": "15",
+        "Fats (g)": "20",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Malai Kofta",
+        "Calories": "350",
+        "Proteins (g)": "10",
+        "Fats (g)": "25",
+        "Carbs (g)": "20",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Navratan Korma",
+        "Calories": "320",
+        "Proteins (g)": "8",
+        "Fats (g)": "18",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Vegetable Korma",
+        "Calories": "280",
+        "Proteins (g)": "6",
+        "Fats (g)": "15",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Paneer Butter Masala",
+        "Calories": "400",
+        "Proteins (g)": "20",
+        "Fats (g)": "30",
+        "Carbs (g)": "15",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Dal Makhani",
+        "Calories": "350",
+        "Proteins (g)": "12",
+        "Fats (g)": "20",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Chicken Biryani",
+        "Calories": "600",
+        "Proteins (g)": "35",
+        "Fats (g)": "30",
+        "Carbs (g)": "50",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Vegetable Biryani",
+        "Calories": "500",
+        "Proteins (g)": "10",
+        "Fats (g)": "20",
+        "Carbs (g)": "60",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Egg Biryani",
+        "Calories": "550",
+        "Proteins (g)": "25",
+        "Fats (g)": "25",
+        "Carbs (g)": "50",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Mutton Biryani",
+        "Calories": "700",
+        "Proteins (g)": "40",
+        "Fats (g)": "35",
+        "Carbs (g)": "60",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Prawn Biryani",
+        "Calories": "650",
+        "Proteins (g)": "30",
+        "Fats (g)": "25",
+        "Carbs (g)": "50",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Fish Biryani",
+        "Calories": "600",
+        "Proteins (g)": "35",
+        "Fats (g)": "20",
+        "Carbs (g)": "50",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Hyderabadi Biryani",
+        "Calories": "650",
+        "Proteins (g)": "30",
+        "Fats (g)": "25",
+        "Carbs (g)": "60",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Kashmiri Pulao",
+        "Calories": "400",
+        "Proteins (g)": "8",
+        "Fats (g)": "15",
+        "Carbs (g)": "50",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Vegetable Pulao",
+        "Calories": "300",
+        "Proteins (g)": "6",
+        "Fats (g)": "10",
+        "Carbs (g)": "40",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Jeera Pulao",
+        "Calories": "250",
+        "Proteins (g)": "4",
+        "Fats (g)": "8",
+        "Carbs (g)": "35",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Lemon Pulao",
+        "Calories": "200",
+        "Proteins (g)": "3",
+        "Fats (g)": "6",
+        "Carbs (g)": "30",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Tomato Pulao",
+        "Calories": "220",
+        "Proteins (g)": "4",
+        "Fats (g)": "7",
+        "Carbs (g)": "32",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Curd Pulao",
+        "Calories": "180",
+        "Proteins (g)": "5",
+        "Fats (g)": "6",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Ghee Rice",
+        "Calories": "300",
+        "Proteins (g)": "4",
+        "Fats (g)": "15",
+        "Carbs (g)": "35",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Coconut Rice",
+        "Calories": "250",
+        "Proteins (g)": "4",
+        "Fats (g)": "12",
+        "Carbs (g)": "30",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Tamarind Rice",
+        "Calories": "220",
+        "Proteins (g)": "4",
+        "Fats (g)": "8",
+        "Carbs (g)": "30",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Butter Chicken",
+        "Calories": "290",
+        "Proteins (g)": "15",
+        "Fats (g)": "18",
+        "Carbs (g)": "12",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Kofta Curry",
+        "Calories": "250",
+        "Proteins (g)": "8",
+        "Fats (g)": "12",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Mutton Biryani",
+        "Calories": "320",
+        "Proteins (g)": "20",
+        "Fats (g)": "15",
+        "Carbs (g)": "35",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Paneer Tikka",
+        "Calories": "220",
+        "Proteins (g)": "14",
+        "Fats (g)": "12",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Fish Curry",
+        "Calories": "250",
+        "Proteins (g)": "22",
+        "Fats (g)": "10",
+        "Carbs (g)": "8",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Egg Curry",
+        "Calories": "250",
+        "Proteins (g)": "14",
+        "Fats (g)": "12",
+        "Carbs (g)": "10",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Egg Biryani",
+        "Calories": "320",
+        "Proteins (g)": "18",
+        "Fats (g)": "14",
+        "Carbs (g)": "40",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Pav Bhaji",
+        "Calories": "310",
+        "Proteins (g)": "8",
+        "Fats (g)": "14",
+        "Carbs (g)": "40",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Malai Kofta",
+        "Calories": "320",
+        "Proteins (g)": "9",
+        "Fats (g)": "20",
+        "Carbs (g)": "25",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Apple",
+        "Calories": "52",
+        "Proteins (g)": "0.26",
+        "Fats (g)": "13.81",
+        "Carbs (g)": "0.17",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Banana",
+        "Calories": "89",
+        "Proteins (g)": "1.09",
+        "Fats (g)": "22.84",
+        "Carbs (g)": "0.33",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Mango",
+        "Calories": "60",
+        "Proteins (g)": "0.82",
+        "Fats (g)": "14.98",
+        "Carbs (g)": "0.38",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Orange",
+        "Calories": "47",
+        "Proteins (g)": "0.94",
+        "Fats (g)": "11.75",
+        "Carbs (g)": "0.12",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Papaya",
+        "Calories": "43",
+        "Proteins (g)": "0.47",
+        "Fats (g)": "10.82",
+        "Carbs (g)": "0.26",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pineapple",
+        "Calories": "50",
+        "Proteins (g)": "0.54",
+        "Fats (g)": "13.12",
+        "Carbs (g)": "0.12",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Guava",
+        "Calories": "68",
+        "Proteins (g)": "2.55",
+        "Fats (g)": "14.32",
+        "Carbs (g)": "0.95",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Watermelon",
+        "Calories": "30",
+        "Proteins (g)": "0.61",
+        "Fats (g)": "7.55",
+        "Carbs (g)": "0.15",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pomegranate",
+        "Calories": "83",
+        "Proteins (g)": "1.67",
+        "Fats (g)": "18.7",
+        "Carbs (g)": "1.17",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Grapes",
+        "Calories": "69",
+        "Proteins (g)": "0.72",
+        "Fats (g)": "18.1",
+        "Carbs (g)": "0.16",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Kiwi",
+        "Calories": "61",
+        "Proteins (g)": "1.14",
+        "Fats (g)": "14.66",
+        "Carbs (g)": "0.52",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pear",
+        "Calories": "57",
+        "Proteins (g)": "0.36",
+        "Fats (g)": "15.23",
+        "Carbs (g)": "0.14",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Strawberry",
+        "Calories": "32",
+        "Proteins (g)": "0.67",
+        "Fats (g)": "7.68",
+        "Carbs (g)": "0.3",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Custard Apple",
+        "Calories": "94",
+        "Proteins (g)": "2.06",
+        "Fats (g)": "23.64",
+        "Carbs (g)": "0.29",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sapota (Chikoo)",
+        "Calories": "83",
+        "Proteins (g)": "0.44",
+        "Fats (g)": "19.96",
+        "Carbs (g)": "1.1",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Jackfruit",
+        "Calories": "95",
+        "Proteins (g)": "1.72",
+        "Fats (g)": "23.25",
+        "Carbs (g)": "0.64",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Lychee",
+        "Calories": "66",
+        "Proteins (g)": "0.83",
+        "Fats (g)": "16.53",
+        "Carbs (g)": "0.44",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Muskmelon",
+        "Calories": "34",
+        "Proteins (g)": "0.84",
+        "Fats (g)": "8.16",
+        "Carbs (g)": "0.19",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Plum",
+        "Calories": "46",
+        "Proteins (g)": "0.7",
+        "Fats (g)": "11.42",
+        "Carbs (g)": "0.28",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Apricot",
+        "Calories": "48",
+        "Proteins (g)": "1.4",
+        "Fats (g)": "11.12",
+        "Carbs (g)": "0.39",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Peach",
+        "Calories": "39",
+        "Proteins (g)": "0.91",
+        "Fats (g)": "9.54",
+        "Carbs (g)": "0.25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Fig",
+        "Calories": "74",
+        "Proteins (g)": "0.75",
+        "Fats (g)": "19.18",
+        "Carbs (g)": "0.3",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dragon Fruit",
+        "Calories": "60",
+        "Proteins (g)": "1.2",
+        "Fats (g)": "13",
+        "Carbs (g)": "0.4",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Star Fruit",
+        "Calories": "31",
+        "Proteins (g)": "1.04",
+        "Fats (g)": "6.73",
+        "Carbs (g)": "0.33",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Blueberry",
+        "Calories": "57",
+        "Proteins (g)": "0.74",
+        "Fats (g)": "14.49",
+        "Carbs (g)": "0.33",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Blackberry",
+        "Calories": "43",
+        "Proteins (g)": "1.39",
+        "Fats (g)": "9.61",
+        "Carbs (g)": "0.49",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Raspberry",
+        "Calories": "52",
+        "Proteins (g)": "1.2",
+        "Fats (g)": "11.94",
+        "Carbs (g)": "0.65",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Coconut",
+        "Calories": "354",
+        "Proteins (g)": "3.33",
+        "Fats (g)": "15.23",
+        "Carbs (g)": "33.49",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Wood Apple (Bael)",
+        "Calories": "137",
+        "Proteins (g)": "2.5",
+        "Fats (g)": "31.8",
+        "Carbs (g)": "0.6",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Jamun (Java Plum)",
+        "Calories": "62",
+        "Proteins (g)": "0.7",
+        "Fats (g)": "14",
+        "Carbs (g)": "0.23",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Amla (Indian Gooseberry)",
+        "Calories": "44",
+        "Proteins (g)": "0.88",
+        "Fats (g)": "10.18",
+        "Carbs (g)": "0.58",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Tamarind",
+        "Calories": "239",
+        "Proteins (g)": "2.8",
+        "Fats (g)": "62.5",
+        "Carbs (g)": "0.6",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Ber (Indian Jujube)",
+        "Calories": "79",
+        "Proteins (g)": "1.2",
+        "Fats (g)": "20.23",
+        "Carbs (g)": "0.2",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Hot tea (Garam Chai)",
+        "Calories": "16.14",
+        "Proteins (g)": "0.39",
+        "Fats (g)": "2.58",
+        "Carbs (g)": "0.53",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Instant coffee",
+        "Calories": "23.16",
+        "Proteins (g)": "0.64",
+        "Fats (g)": "3.65",
+        "Carbs (g)": "0.75",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Espreso coffee",
+        "Calories": "51.54",
+        "Proteins (g)": "1.75",
+        "Fats (g)": "6.62",
+        "Carbs (g)": "2.14",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Iced tea",
+        "Calories": "10.34",
+        "Proteins (g)": "0.13",
+        "Fats (g)": "2.7",
+        "Carbs (g)": "0.01",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Raw mango drink (Aam panna)",
+        "Calories": "35.92",
+        "Proteins (g)": "0.16",
+        "Fats (g)": "9.05",
+        "Carbs (g)": "0.03",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Fruit Punch (with fresh juices)",
+        "Calories": "36.12",
+        "Proteins (g)": "0.14",
+        "Fats (g)": "9.38",
+        "Carbs (g)": "0.03",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Lemonade",
+        "Calories": "20.8",
+        "Proteins (g)": "0.13",
+        "Fats (g)": "5.48",
+        "Carbs (g)": "0.01",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Lem-o-gin",
+        "Calories": "21.52",
+        "Proteins (g)": "0.08",
+        "Fats (g)": "5.55",
+        "Carbs (g)": "0.03",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cumin infused water (Jeere/Zeere ka pani)",
+        "Calories": "9.09",
+        "Proteins (g)": "0.17",
+        "Fats (g)": "1.86",
+        "Carbs (g)": "0.11",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Coco pine cooler",
+        "Calories": "32.75",
+        "Proteins (g)": "0.56",
+        "Fats (g)": "5.72",
+        "Carbs (g)": "1",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Summer cooler",
+        "Calories": "22.43",
+        "Proteins (g)": "0.37",
+        "Fats (g)": "5.43",
+        "Carbs (g)": "0.04",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Hot cocoa",
+        "Calories": "90.1",
+        "Proteins (g)": "3.36",
+        "Fats (g)": "9.23",
+        "Carbs (g)": "4.56",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cold coffee with ice cream",
+        "Calories": "67.85",
+        "Proteins (g)": "1.57",
+        "Fats (g)": "11.24",
+        "Carbs (g)": "2.11",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Banana milkshake (Kele milkshake)",
+        "Calories": "65.31",
+        "Proteins (g)": "1.84",
+        "Fats (g)": "9.15",
+        "Carbs (g)": "2.37",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Mango milkshake (Aam milkshake)",
+        "Calories": "56.9",
+        "Proteins (g)": "1.73",
+        "Fats (g)": "7.23",
+        "Carbs (g)": "2.35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pineapple milkshake (Ananas milkshake)",
+        "Calories": "55.72",
+        "Proteins (g)": "1.66",
+        "Fats (g)": "7.62",
+        "Carbs (g)": "2.23",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Orange milkshake (Narangi milkshake)",
+        "Calories": "57.42",
+        "Proteins (g)": "1.86",
+        "Fats (g)": "7.11",
+        "Carbs (g)": "2.52",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Egg nog",
+        "Calories": "97.14",
+        "Proteins (g)": "4.78",
+        "Fats (g)": "8.15",
+        "Carbs (g)": "5.11",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sweet Lassi (Meethi lassi)",
+        "Calories": "35.66",
+        "Proteins (g)": "1.29",
+        "Fats (g)": "6.51",
+        "Carbs (g)": "0.68",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Lassi (salted)",
+        "Calories": "18.84",
+        "Proteins (g)": "1.35",
+        "Fats (g)": "1.86",
+        "Carbs (g)": "0.72",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cheese and chilli sandwich",
+        "Calories": "218.11",
+        "Proteins (g)": "6.8",
+        "Fats (g)": "27.4",
+        "Carbs (g)": "9.78",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Egg sandwich (Ande ka sandwich)",
+        "Calories": "285.96",
+        "Proteins (g)": "8.69",
+        "Fats (g)": "29.16",
+        "Carbs (g)": "15.8",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cucumber sandwich (Kheere ka sandwich)",
+        "Calories": "188.6",
+        "Proteins (g)": "4.8",
+        "Fats (g)": "25.77",
+        "Carbs (g)": "8",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cheese and pineapple sandwich (Cheese aur ananas ka sandwich)",
+        "Calories": "257.71",
+        "Proteins (g)": "8.2",
+        "Fats (g)": "29.1",
+        "Carbs (g)": "12.8",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cheese and tomato sandwich (Cheese aur tamatar ke sandwich)",
+        "Calories": "243.32",
+        "Proteins (g)": "7.92",
+        "Fats (g)": "26.92",
+        "Carbs (g)": "12.27",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Chicken sandwich",
+        "Calories": "253.27",
+        "Proteins (g)": "13.12",
+        "Fats (g)": "25.38",
+        "Carbs (g)": "11.75",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich)",
+        "Calories": "291.43",
+        "Proteins (g)": "9.53",
+        "Fats (g)": "28.54",
+        "Carbs (g)": "16.14",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Rainbow sandwich",
+        "Calories": "272.75",
+        "Proteins (g)": "7.75",
+        "Fats (g)": "34.26",
+        "Carbs (g)": "12.54",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Club sandwich",
+        "Calories": "235.32",
+        "Proteins (g)": "7.31",
+        "Fats (g)": "18.51",
+        "Carbs (g)": "15.12",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetarian club sandwich",
+        "Calories": "198.33",
+        "Proteins (g)": "5.45",
+        "Fats (g)": "19.68",
+        "Carbs (g)": "11.33",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Pin wheel sandwich",
+        "Calories": "311.52",
+        "Proteins (g)": "8.77",
+        "Fats (g)": "14",
+        "Carbs (g)": "24.93",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Carrot apple sandwich (Gajar aur seb ka sandwich)",
+        "Calories": "214.11",
+        "Proteins (g)": "5.3",
+        "Fats (g)": "29.04",
+        "Carbs (g)": "9.12",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Salami sandwich",
+        "Calories": "255.59",
+        "Proteins (g)": "8.7",
+        "Fats (g)": "21.54",
+        "Carbs (g)": "15.51",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetable and mayonnaise sandwich",
+        "Calories": "244.26",
+        "Proteins (g)": "4.47",
+        "Fats (g)": "23.2",
+        "Carbs (g)": "15.4",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Egg and tomato sandwich (Ande aur tamatar ka sandwich)",
+        "Calories": "222.11",
+        "Proteins (g)": "7.66",
+        "Fats (g)": "25.9",
+        "Carbs (g)": "10.51",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sweet open sandwich",
+        "Calories": "244.25",
+        "Proteins (g)": "4.99",
+        "Fats (g)": "39.24",
+        "Carbs (g)": "8.15",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Mushroom and cheese sandwich (toasted)",
+        "Calories": "227.42",
+        "Proteins (g)": "7.79",
+        "Fats (g)": "21.01",
+        "Carbs (g)": "13.01",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted))",
+        "Calories": "224.58",
+        "Proteins (g)": "6.82",
+        "Fats (g)": "21.42",
+        "Carbs (g)": "12.95",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pea potato sandwich (toasted) (Matar aloo ka sandwich)",
+        "Calories": "164.9",
+        "Proteins (g)": "4.6",
+        "Fats (g)": "25.17",
+        "Carbs (g)": "5.43",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)",
+        "Calories": "249.56",
+        "Proteins (g)": "12.4",
+        "Fats (g)": "24.05",
+        "Carbs (g)": "11.98",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chicken sandwich (toasted)",
+        "Calories": "167.37",
+        "Proteins (g)": "12.08",
+        "Fats (g)": "18.82",
+        "Carbs (g)": "5.32",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Pea keema sandwich (toasted) (Matar aur keema ka sandwich)",
+        "Calories": "171.78",
+        "Proteins (g)": "11.06",
+        "Fats (g)": "20.26",
+        "Carbs (g)": "5.61",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Classic club sandwich",
+        "Calories": "200.83",
+        "Proteins (g)": "6.74",
+        "Fats (g)": "18.49",
+        "Carbs (g)": "11.56",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sesame toast",
+        "Calories": "495.19",
+        "Proteins (g)": "1.9",
+        "Fats (g)": "11.15",
+        "Carbs (g)": "49.38",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cracked wheat porridge (Meetha daliya)",
+        "Calories": "81.57",
+        "Proteins (g)": "2.64",
+        "Fats (g)": "8.87",
+        "Carbs (g)": "4.08",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Semolina porridge (Suji/Rava daliya)",
+        "Calories": "100.89",
+        "Proteins (g)": "3.75",
+        "Fats (g)": "12.39",
+        "Carbs (g)": "4.08",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Oatmeal Porridge",
+        "Calories": "72.85",
+        "Proteins (g)": "2.6",
+        "Fats (g)": "8.77",
+        "Carbs (g)": "3.22",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cornflakes with milk",
+        "Calories": "117.33",
+        "Proteins (g)": "3.59",
+        "Fats (g)": "14.95",
+        "Carbs (g)": "5.12",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Rice flakes (Chiwda/Aval)",
+        "Calories": "112.44",
+        "Proteins (g)": "3.62",
+        "Fats (g)": "15.57",
+        "Carbs (g)": "3.99",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Wheat flakes",
+        "Calories": "112.44",
+        "Proteins (g)": "3.62",
+        "Fats (g)": "15.57",
+        "Carbs (g)": "3.99",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Murmura (Puffed rice)",
+        "Calories": "113.32",
+        "Proteins (g)": "3.62",
+        "Fats (g)": "15.67",
+        "Carbs (g)": "4.04",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Puffed wheat (Murmure/Moori)",
+        "Calories": "113.32",
+        "Proteins (g)": "3.62",
+        "Fats (g)": "15.67",
+        "Carbs (g)": "4.04",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Boiled egg (Ubla anda)",
+        "Calories": "45.35",
+        "Proteins (g)": "4.43",
+        "Fats (g)": "0.12",
+        "Carbs (g)": "3.04",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Fried Egg",
+        "Calories": "223.67",
+        "Proteins (g)": "11.59",
+        "Fats (g)": "0.31",
+        "Carbs (g)": "19.62",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Poached egg",
+        "Calories": "123.87",
+        "Proteins (g)": "11.98",
+        "Fats (g)": "0.37",
+        "Carbs (g)": "8.19",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Scrambled egg (Ande ki bhurji)",
+        "Calories": "155.97",
+        "Proteins (g)": "10.29",
+        "Fats (g)": "1.35",
+        "Carbs (g)": "12.21",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Baked egg",
+        "Calories": "218.85",
+        "Proteins (g)": "11.88",
+        "Fats (g)": "15.42",
+        "Carbs (g)": "12.65",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Plain omelette/omlet",
+        "Calories": "272.41",
+        "Proteins (g)": "10.66",
+        "Fats (g)": "0.64",
+        "Carbs (g)": "25.74",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Stuffed egg omelette/omlet",
+        "Calories": "203.51",
+        "Proteins (g)": "10.6",
+        "Fats (g)": "2.3",
+        "Carbs (g)": "17.77",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pancake",
+        "Calories": "203.36",
+        "Proteins (g)": "5.68",
+        "Fats (g)": "20.49",
+        "Carbs (g)": "10.82",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Keema pancake",
+        "Calories": "176.27",
+        "Proteins (g)": "9.01",
+        "Fats (g)": "9.56",
+        "Carbs (g)": "11.25",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Vegetable pancake",
+        "Calories": "125.18",
+        "Proteins (g)": "3.87",
+        "Fats (g)": "12.24",
+        "Carbs (g)": "6.57",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Jam and fruit pancake",
+        "Calories": "162.02",
+        "Proteins (g)": "3.79",
+        "Fats (g)": "20.73",
+        "Carbs (g)": "7.01",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Khoa and coconut pancake",
+        "Calories": "271.98",
+        "Proteins (g)": "6.98",
+        "Fats (g)": "27.32",
+        "Carbs (g)": "15.29",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Brown stock",
+        "Calories": "21.32",
+        "Proteins (g)": "1.95",
+        "Fats (g)": "0.25",
+        "Carbs (g)": "1.38",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Vegetable stock",
+        "Calories": "17.6",
+        "Proteins (g)": "1.3",
+        "Fats (g)": "0.96",
+        "Carbs (g)": "1.38",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Chicken stock",
+        "Calories": "29.88",
+        "Proteins (g)": "4.7",
+        "Fats (g)": "0.37",
+        "Carbs (g)": "1.51",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Clear tomato soup (Tamatar ka soup)",
+        "Calories": "80.07",
+        "Proteins (g)": "4.79",
+        "Fats (g)": "3.45",
+        "Carbs (g)": "12.22",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Lentil soup",
+        "Calories": "31.17",
+        "Proteins (g)": "9.65",
+        "Fats (g)": "3.94",
+        "Carbs (g)": "11.68",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chicken consomme (Clear chicken soup)",
+        "Calories": "47.94",
+        "Proteins (g)": "11.47",
+        "Fats (g)": "1.19",
+        "Carbs (g)": "12.02",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cream of tomato soup",
+        "Calories": "97.81",
+        "Proteins (g)": "4.61",
+        "Fats (g)": "3.93",
+        "Carbs (g)": "13.12",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cream of green peas soup",
+        "Calories": "127.84",
+        "Proteins (g)": "7.13",
+        "Fats (g)": "6.75",
+        "Carbs (g)": "14.78",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cream of spinach soup",
+        "Calories": "100.54",
+        "Proteins (g)": "5.21",
+        "Fats (g)": "3.45",
+        "Carbs (g)": "13.31",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cream of mixed vegetable soup",
+        "Calories": "59.65",
+        "Proteins (g)": "6.84",
+        "Fats (g)": "4.93",
+        "Carbs (g)": "9.05",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cream of mushroom soup",
+        "Calories": "117.28",
+        "Proteins (g)": "6.64",
+        "Fats (g)": "3.74",
+        "Carbs (g)": "15.5",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chicken sweet corn soup",
+        "Calories": "28.32",
+        "Proteins (g)": "14.48",
+        "Fats (g)": "1.63",
+        "Carbs (g)": "12.59",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Minestrone soup",
+        "Calories": "42.66",
+        "Proteins (g)": "9.3",
+        "Fats (g)": "3.71",
+        "Carbs (g)": "11.09",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Egg drop soup",
+        "Calories": "26.64",
+        "Proteins (g)": "12.93",
+        "Fats (g)": "1.1",
+        "Carbs (g)": "13.52",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chinese cabbage and meat ball soup",
+        "Calories": "484.31",
+        "Proteins (g)": "5.21",
+        "Fats (g)": "1.43",
+        "Carbs (g)": "56.57",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "French onion soup",
+        "Calories": "55.61",
+        "Proteins (g)": "11.41",
+        "Fats (g)": "4.28",
+        "Carbs (g)": "14.39",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Hot and sour soup",
+        "Calories": "31.51",
+        "Proteins (g)": "3.12",
+        "Fats (g)": "1.78",
+        "Carbs (g)": "1.31",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Talaumein soup",
+        "Calories": "35.63",
+        "Proteins (g)": "10.12",
+        "Fats (g)": "4.17",
+        "Carbs (g)": "12.78",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cold cucumber soup (Thanda kheere ka soup)",
+        "Calories": "48.03",
+        "Proteins (g)": "2.99",
+        "Fats (g)": "4.58",
+        "Carbs (g)": "1.99",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cold summer garden soup",
+        "Calories": "49.19",
+        "Proteins (g)": "8.57",
+        "Fats (g)": "2.65",
+        "Carbs (g)": "14.08",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Chapati/Roti",
+        "Calories": "202.31",
+        "Proteins (g)": "5.88",
+        "Fats (g)": "35.65",
+        "Carbs (g)": "3.56",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Plain parantha/paratha",
+        "Calories": "298.3",
+        "Proteins (g)": "5.06",
+        "Fats (g)": "30.69",
+        "Carbs (g)": "16.86",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Potato parantha/paratha (Aloo ka parantha/paratha)",
+        "Calories": "205.04",
+        "Proteins (g)": "3.7",
+        "Fats (g)": "23.92",
+        "Carbs (g)": "10.22",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Radish parantha/paratha (Mooli ka parantha/paratha)",
+        "Calories": "183.52",
+        "Proteins (g)": "3.3",
+        "Fats (g)": "20.54",
+        "Carbs (g)": "9.53",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha)",
+        "Calories": "178.07",
+        "Proteins (g)": "3.73",
+        "Fats (g)": "18.84",
+        "Carbs (g)": "9.47",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dal parantha/paratha",
+        "Calories": "268.24",
+        "Proteins (g)": "6.78",
+        "Fats (g)": "30.03",
+        "Carbs (g)": "13.05",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Sprouted moong parantha/paratha",
+        "Calories": "228.59",
+        "Proteins (g)": "4.29",
+        "Fats (g)": "24.31",
+        "Carbs (g)": "12.43",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Pea parantha/paratha (Matar ka parantha/paratha)",
+        "Calories": "190.73",
+        "Proteins (g)": "5.59",
+        "Fats (g)": "21.51",
+        "Carbs (g)": "8.8",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Keema parantha/paratha",
+        "Calories": "238.09",
+        "Proteins (g)": "9.41",
+        "Fats (g)": "18.36",
+        "Carbs (g)": "13.91",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paneer parantha/paratha",
+        "Calories": "262.97",
+        "Proteins (g)": "7.98",
+        "Fats (g)": "24.33",
+        "Carbs (g)": "14.62",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)",
+        "Calories": "216.49",
+        "Proteins (g)": "5.54",
+        "Fats (g)": "21.39",
+        "Carbs (g)": "12.09",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Poori",
+        "Calories": "737.63",
+        "Proteins (g)": "1.85",
+        "Fats (g)": "8.22",
+        "Carbs (g)": "77.61",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Spinach poori (Palak poori)",
+        "Calories": "684.25",
+        "Proteins (g)": "1.42",
+        "Fats (g)": "7.76",
+        "Carbs (g)": "71.86",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Methi poori",
+        "Calories": "710.02",
+        "Proteins (g)": "1.45",
+        "Fats (g)": "7.98",
+        "Carbs (g)": "74.6",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Dal stuffed poori",
+        "Calories": "785.16",
+        "Proteins (g)": "2.08",
+        "Fats (g)": "10.14",
+        "Carbs (g)": "81.69",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Potato stuffed poori (Aloo ki poori)",
+        "Calories": "776.74",
+        "Proteins (g)": "1.52",
+        "Fats (g)": "9.4",
+        "Carbs (g)": "81.35",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Tandoori parantha/paratha",
+        "Calories": "295.37",
+        "Proteins (g)": "5.08",
+        "Fats (g)": "30.74",
+        "Carbs (g)": "16.51",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Boiled rice (Uble chawal)",
+        "Calories": "117.19",
+        "Proteins (g)": "4.6",
+        "Fats (g)": "25.72",
+        "Carbs (g)": "0.18",
+        "Meal Type": "Dinner"
+    },
+    {
+        "Dish": "Plain pulao",
+        "Calories": "140.21",
+        "Proteins (g)": "4.24",
+        "Fats (g)": "21.82",
+        "Carbs (g)": "4.62",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Mixed vegetable pulao",
+        "Calories": "113.05",
+        "Proteins (g)": "3.72",
+        "Fats (g)": "17.49",
+        "Carbs (g)": "3.33",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Mushroom pulao",
+        "Calories": "124.29",
+        "Proteins (g)": "5.25",
+        "Fats (g)": "19.02",
+        "Carbs (g)": "4.03",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sprouted moong pulao",
+        "Calories": "112.97",
+        "Proteins (g)": "7.2",
+        "Fats (g)": "17.49",
+        "Carbs (g)": "3.61",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Paneer pulao",
+        "Calories": "581.91",
+        "Proteins (g)": "8.98",
+        "Fats (g)": "8.76",
+        "Carbs (g)": "59.81",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Peanut pulao",
+        "Calories": "193.28",
+        "Proteins (g)": "5.32",
+        "Fats (g)": "21.18",
+        "Carbs (g)": "9.51",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Navratan pulao",
+        "Calories": "261.71",
+        "Proteins (g)": "6.2",
+        "Fats (g)": "36.98",
+        "Carbs (g)": "9.45",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Green chickpeas pulao (Choliya pulao/Hare chane ka pulao)",
+        "Calories": "173.43",
+        "Proteins (g)": "4.88",
+        "Fats (g)": "27.57",
+        "Carbs (g)": "4.82",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Mutton biryani/biriyani",
+        "Calories": "190.76",
+        "Proteins (g)": "7.38",
+        "Fats (g)": "22.5",
+        "Carbs (g)": "7.72",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetable biryani/biriyani",
+        "Calories": "174.61",
+        "Proteins (g)": "3.16",
+        "Fats (g)": "18.56",
+        "Carbs (g)": "9.51",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Lemon rice (Pulihora",
+        "Calories": "176.3",
+        "Proteins (g)": "4.26",
+        "Fats (g)": "21.62",
+        "Carbs (g)": "7.88",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Sweet rice (Meethe chawal)",
+        "Calories": "215.41",
+        "Proteins (g)": "3.1",
+        "Fats (g)": "42.59",
+        "Carbs (g)": "4.57",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)",
+        "Calories": "195.74",
+        "Proteins (g)": "5.75",
+        "Fats (g)": "32.93",
+        "Carbs (g)": "4.32",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna)",
+        "Calories": "373.04",
+        "Proteins (g)": "7.45",
+        "Fats (g)": "65.08",
+        "Carbs (g)": "8.53",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Spanish rice",
+        "Calories": "164.24",
+        "Proteins (g)": "4.19",
+        "Fats (g)": "31.1",
+        "Carbs (g)": "2.23",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chinese fried rice",
+        "Calories": "120.58",
+        "Proteins (g)": "4.05",
+        "Fats (g)": "13.4",
+        "Carbs (g)": "5.43",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Macroni cheese pie",
+        "Calories": "170.63",
+        "Proteins (g)": "5.85",
+        "Fats (g)": "21.1",
+        "Carbs (g)": "7.48",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Vegetable chowmein",
+        "Calories": "129.71",
+        "Proteins (g)": "3.07",
+        "Fats (g)": "15.44",
+        "Carbs (g)": "6.36",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chicken chowmein",
+        "Calories": "151.33",
+        "Proteins (g)": "6.33",
+        "Fats (g)": "13.3",
+        "Carbs (g)": "8.23",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Cheese noodle ring",
+        "Calories": "133.67",
+        "Proteins (g)": "6.22",
+        "Fats (g)": "13.96",
+        "Carbs (g)": "6.12",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Spaghetti and cheese balls in tomato sauce",
+        "Calories": "508.32",
+        "Proteins (g)": "2.41",
+        "Fats (g)": "7.82",
+        "Carbs (g)": "52.08",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Penne platter",
+        "Calories": "177.4",
+        "Proteins (g)": "7.4",
+        "Fats (g)": "20.87",
+        "Carbs (g)": "8.71",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Pasta hot pot",
+        "Calories": "125.17",
+        "Proteins (g)": "5.84",
+        "Fats (g)": "11.6",
+        "Carbs (g)": "6.47",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Chicken lasagne",
+        "Calories": "187.49",
+        "Proteins (g)": "10.45",
+        "Fats (g)": "13.9",
+        "Carbs (g)": "10.36",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Fettuccine with spinach sauce",
+        "Calories": "129.21",
+        "Proteins (g)": "3.1",
+        "Fats (g)": "12.19",
+        "Carbs (g)": "7.83",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Naan",
+        "Calories": "286.45",
+        "Proteins (g)": "8.05",
+        "Fats (g)": "51.75",
+        "Carbs (g)": "4.99",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Bhatura",
+        "Calories": "793.2",
+        "Proteins (g)": "2.1",
+        "Fats (g)": "10.73",
+        "Carbs (g)": "82.56",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Idli",
+        "Calories": "137.54",
+        "Proteins (g)": "4.64",
+        "Fats (g)": "28.18",
+        "Carbs (g)": "0.33",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Masala dosa",
+        "Calories": "164.58",
+        "Proteins (g)": "3.29",
+        "Fats (g)": "19.57",
+        "Carbs (g)": "7.84",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Semolina dosa (Suji/Rava dosa)",
+        "Calories": "227.05",
+        "Proteins (g)": "7.3",
+        "Fats (g)": "32.84",
+        "Carbs (g)": "7.12",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Onion tomato uttapam",
+        "Calories": "462.02",
+        "Proteins (g)": "2.2",
+        "Fats (g)": "11.32",
+        "Carbs (g)": "45.3",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Paneer kaathi roll",
+        "Calories": "285.94",
+        "Proteins (g)": "6.92",
+        "Fats (g)": "20.1",
+        "Carbs (g)": "19.55",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Makki ki roti",
+        "Calories": "263.97",
+        "Proteins (g)": "3.49",
+        "Fats (g)": "24.19",
+        "Carbs (g)": "16.85",
+        "Meal Type": "Breakfast"
+    },
+    {
+        "Dish": "Washed moong dal (Dhuli moong ki dal)",
+        "Calories": "50",
+        "Proteins (g)": "2.68",
+        "Fats (g)": "5.91",
+        "Carbs (g)": "1.68",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Washed urad dal (Dhuli urad ki dal)",
+        "Calories": "61.32",
+        "Proteins (g)": "2.51",
+        "Fats (g)": "5.84",
+        "Carbs (g)": "2.98",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Split bengal gram with bottle gourd (Channa dal with ghiya/lauki)",
+        "Calories": "73.25",
+        "Proteins (g)": "2.79",
+        "Fats (g)": "7.1",
+        "Carbs (g)": "3.6",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Dry washed urad",
+        "Calories": "124.71",
+        "Proteins (g)": "6.85",
+        "Fats (g)": "15.66",
+        "Carbs (g)": "3.5",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Mixed dal",
+        "Calories": "61.93",
+        "Proteins (g)": "2.51",
+        "Fats (g)": "5.79",
+        "Carbs (g)": "3.1",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Whole moong (Moong ki dal)",
+        "Calories": "53.7",
+        "Proteins (g)": "2.25",
+        "Fats (g)": "5.22",
+        "Carbs (g)": "2.56",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Whole masoor (Masoor ki dal)",
+        "Calories": "54.05",
+        "Proteins (g)": "2.28",
+        "Fats (g)": "5.37",
+        "Carbs (g)": "2.52",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Whole moth (Moth ki dal)",
+        "Calories": "55",
+        "Proteins (g)": "2.01",
+        "Fats (g)": "5.74",
+        "Carbs (g)": "2.62",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Whole urad (Urad ki dal)",
+        "Calories": "53.8",
+        "Proteins (g)": "2.21",
+        "Fats (g)": "5.05",
+        "Carbs (g)": "2.62",
+        "Meal Type": "Lunch"
+    },
+    {
+        "Dish": "Moti mahal dal (Urad rajmah mix dal)",
+        "Calories": "103.13",
+        "Proteins (g)": "3.93",
+        "Fats (g)": "8.74",
+        "Carbs (g)": "5.66",
+        "Meal Type": "Lunch"
+    }
+]
