@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    /* background: brown; */
+    background-position: center;
+    background-size:cover ;
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 25px 25px;
+    background: transparent;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar{
+    margin-left: 20px;
+}
+.navbar a, .nb a{
+    position: relative;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 30px;
+    text-decoration: none;
+}
+.navbar a::after, .nb a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: white;
+    bottom: -5px;
+    border-radius: 5px;
+    transform: translateY(10px);
+    opacity: 0;
+    transition: .5s ease;
+}
+.navbar a:hover:after, .nb a:hover:after{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.navbar a:hover, .nb a:hover{
+    color: aquamarine;
+    font-size: 18px;
+    text-shadow: 0 0 10px green;
+    transition: .5s ease;
+}
+
+.profile{
+    margin-left: 900px;
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.title .nutri {
+    color: white;
+}
+
+.title .track {
+    color: green;
+    text-shadow: 0 0 10px #077b32;
+}
+
+.horz{
+    border: 0; /* Remove default border */
+    height: 1px; /* Set height of the line */
+    background: linear-gradient(to right, transparent, white, transparent); /* Gradient effect */
+    margin: 0; /* Remove default margin */
+    width: 100%; /* Full width */
+    margin-top: 70px;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin-top: 50px; /* Adjust as needed */
+    margin-left: 150px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #444;
+    border-radius: 55px;
+    background-color: #222;
+    color: white;
+    font-size: 16px;
+    outline: none;
+}
+
+.input-field:hover{
+    background-color: rgb(193, 248, 131);
+    color: black;
+    transition: .5s ease;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin-top: 50px; /* Adjust as needed */
+    margin-left: 200px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #444;
+    border-radius: 55px;
+    background-color: #222;
+    color: white;
+    font-size: 16px;
+    outline: none;
+}
+
+.input-field:hover {
+    background-color: rgb(193, 248, 131);
+    color: black;
+    transition: .5s ease;
+}
+
+#add-meal-button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 55px;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+}
+
+#add-meal-button:hover {
+    background-color: rgb(193, 248, 131);
+    transition: .5s ease;
+}
+.profile-dropdown {
+    display: none;
+    position: absolute;
+    top: 80px; /* Adjust based on your header height */
+    right: 50px;
+    background-color:#a8cba0;
+    border: 1px solid #444;
+    border-radius: 5px;
+    z-index: 1000;
+    width: 200px; /* Adjust width as needed */
+    padding: 10px;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #444;
+}
+
+.profile-name {
+    color: white;
+    font-size: 16px;
+    margin-left: 60px;    
+}
+
+.dropdown-item {
+    display: block;
+    padding: 10px;
+    color:white;
+    /* text-decoration: none; */
+    text-align: center;
+    margin-left: 30px; 
+}
+
+#nutritionChart{
+    margin-top: 20px;
+    margin-left: 350px;
+    max-width: 800px;
+    max-height: 520px;
+}
+
+
+@media (max-width:1380px){
+    .profile{
+        margin-left: 300px;
+    }
+
+    .horz{
+        margin-top: 80px;
+    }
+    #nutritionChart{
+        margin-left: 250px;
+    }
+}
+
+@media (max-width:820px){
+    .profile{
+        margin-left: 100px;
+    }
+    #nutritionChart{
+        margin-left: 5px;
+    }
+}
+
+@media (max-width:700px){
+    .profile{
+        margin-left: 0px;
+    }
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .profile-dropdown {
+        right: 10px;
+        width: 180px;
+    }
+    .input-container {
+        margin-left: 100px;
+    }
+    #nutritionChart{
+        margin-left: 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-dropdown {
+        right: 5px;
+        width: 160px;
+    }
+    .input-container {
+        margin-left: 50px;
+    }
+}
+
+

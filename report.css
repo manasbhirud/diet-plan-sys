@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #0cdc47;
+  }
+  
+  .chart-container {
+    background-color: #c7ffb8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+
+  .chart-container:hover{
+    box-shadow: 0 0 20px rgb(113, 240, 2);
+    transition: .8s ease;
+  }
+
+  .logo-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    z-index: 10; /* Ensure it stays on top */
+}
+
+/* Style for "Nutri" */
+.nutri {
+    color: white;
+}
+
+/* Style for "Track" */
+.track {
+    color: green;
+    text-shadow: 0 0 10px #077b32;
+}
+
+@media (max-width: 1080px) {
+    .logo-container {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        font-size: 20px;
+        font-weight: bold;
+        z-index: 10; /* Ensure it stays on top */
+    }
+}
